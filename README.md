@@ -1,5 +1,9 @@
 # AngularReddit
 
+## Demo
+
+See the live version [Visit here](https://mohammedelmor.github.io/angular-reddit/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.19.
 
 ## Development server
